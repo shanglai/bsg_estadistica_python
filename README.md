@@ -11,5 +11,6 @@ Lista de Colabs:
 - [C1 Q-Q Plot](https://colab.research.google.com/drive/1LqDJzp-ap4qMyPgIw7XdfZEw-AOYDSDn?usp=sharing)
 - [C1 EDA](https://colab.research.google.com/drive/1X7sAWy7h-0Y7uAnjQBU5b8sbbJxy9Ygn?usp=sharing)
 - [C2 Distribuciones](https://colab.research.google.com/drive/1SjxpAAJuWgAezwT2YdCa3LMNUw0NTJ2b?usp=sharing)
+- [Inferencia](https://colab.research.google.com/drive/15xZ5zS4quMRKabPtkS_oIJfvj1hzIAUI?usp=sharing)
 - 
 
