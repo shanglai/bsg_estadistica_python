@@ -13,5 +13,6 @@ Lista de Colabs:
 - [C2 Distribuciones](https://colab.research.google.com/drive/1SjxpAAJuWgAezwT2YdCa3LMNUw0NTJ2b?usp=sharing)
 - [Inferencia](https://colab.research.google.com/drive/15xZ5zS4quMRKabPtkS_oIJfvj1hzIAUI?usp=sharing)
 - [Regresión Lineal](https://colab.research.google.com/drive/1Wt1JeFwbapHddiJ3SVa-KVJJh1Q40ic3?usp=sharing)
+- [Regresión Múltiple](https://colab.research.google.com/drive/1WQCtzLPHOyL48MzTDyb-fdzfWuLwybux?usp=sharing)
 - 
 
