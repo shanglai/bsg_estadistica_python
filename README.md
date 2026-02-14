@@ -14,5 +14,5 @@ Lista de Colabs:
 - [Inferencia](https://colab.research.google.com/drive/15xZ5zS4quMRKabPtkS_oIJfvj1hzIAUI?usp=sharing)
 - [Regresión Lineal](https://colab.research.google.com/drive/1Wt1JeFwbapHddiJ3SVa-KVJJh1Q40ic3?usp=sharing)
 - [Regresión Múltiple](https://colab.research.google.com/drive/1WQCtzLPHOyL48MzTDyb-fdzfWuLwybux?usp=sharing)
-- 
+- [Cuestionario 1](https://docs.google.com/forms/d/e/1FAIpQLSfablnnYIv3cdEfP5nyKGgPxSYoaj5AbA5ARlU3tB_UOsZiSg/viewform?usp=publish-editor) 
 
