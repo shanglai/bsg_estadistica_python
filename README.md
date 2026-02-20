@@ -16,4 +16,6 @@ Lista de Colabs:
 - [Regresión Múltiple](https://colab.research.google.com/drive/1WQCtzLPHOyL48MzTDyb-fdzfWuLwybux?usp=sharing)
 - [Cuestionario 1](https://docs.google.com/forms/d/e/1FAIpQLSfablnnYIv3cdEfP5nyKGgPxSYoaj5AbA5ARlU3tB_UOsZiSg/viewform?usp=publish-editor)
 - [Ejercicio en Clase](https://colab.research.google.com/drive/1HdS_ALRRapp10ypL3wGbxHDay_bBn-VZ?usp=sharing)
+- [Intro a Estadística Bayesiana](https://colab.research.google.com/drive/1fuwnYP0AMXUC-Dkkw8tpcn-T1lZeH2CH?usp=sharing)
+- 
 
